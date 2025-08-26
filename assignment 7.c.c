@@ -8,7 +8,8 @@ int main() {
 
     celsius = (fahrenheit - 32) * 5 / 9;
 
-    printf("Temperature in Celsius: %.2f\n", celsius);
+    printf("Temperature in Celsius is : %.2f\n", celsius);
 
     return 0;
+
 }
